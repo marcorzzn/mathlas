@@ -1,0 +1,49 @@
+=== Found: Papiro di Rhind at 2465 ===
+e di 365 giorni
+- Papiri matematici
+  - Papiro di Rhind (Ahmes, c. 1650 a.C., copia di un testo più antico del XIX sec. a.C.)
+    - Metodo della falsa posizione per equazioni lineari
+    - Tavola di scomposizione di 2/n in frazioni unitarie per n dispari fino a 101
+    - Problemi di distribuzione di beni (pane, birra, animali)
+    - Progressioni aritmetiche (es. problema 79: case, gatti, topi, spighe, misure di grano)
+    - Calcolo di aree (rettangolo, triangolo isoscele, trapezio, cerchio: area = (8/9 d)^2, π ≈ 3,1605)
+    - Volume di granai cilindrici e tronco di piramide (dettaglio nel Papiro di Mosca)
+    - Problemi di pendenza (seked) delle piramidi: rapporto tra base e altezza
+    - Primi esempi di algebra retorica: "aha" (quantità incognita)
+  - Papiro di Mosca (c. 1850 a.C.)
+    - Formula del volume del tronco di piramide a base quadrata: V = (h/3)(a^2 + ab + b^2)
+    - Volume di una nave (?)
+  - Papiro di Berlino 6619
+==================================================
+=== Found: Plimpton 322 at 6058 ===
+ita)
+- Tavolette cuneiformi celebri
+  - Plimpton 322 (c. 1800 a.C., Larsa?)
+    - Lista di 15 terne pitagoriche generate da coppie (p,q) secondo le formule babilonesi: a = p^2 - q^2, b = 2pq, c = p^2 + q^2; oppure a = p^2 - q^2, b = 2pq, c = p^2 + q^2 con varianti; include terne come (12709, 13500, 18541)
+    - Interpretazioni: trigonometria primitiva? Tavola di rapporti? Esercizi di algebra?
+  - YBC 7289 (c. 1800–1600 a.C.)
+    - Quadrato con diagonale disegnata
+    - Numero 1;24,51,10 (sessagesimale) = 1 + 24/60 + 51/3600 + 10/216000 ≈ 1,41421296 (approssimazione di √2 a 6 cifre sign.)
+    - 30 (lato) e 42;25,35 (diagonale = 30 × √2)
+  - Tavoletta BM 13901
+    - Raccolta di problemi quadratici
+    - Metodo di completamento del quadrato
+  - Tavoletta di Susa (c. 1700 a.C.)
+    - Costanti matematiche: approssimazioni, coefficienti per poligoni regolari
+  - Tavoletta VAT 7847: problemi di geometria con equazioni
+- Algebra retor
+==================================================
+Not found: al-Kitāb al-mukhtaṣar
+=== Found: al-Jabr at 28781 ===
+50)
+  - *Al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wal-Muqābala* (Il libro conciso sul calcolo per completamento e bilanciamento, c. 820)
+    - Algebra come disciplina separata: manipolazione di equazioni senza uso di simboli (retorica)
+    - Classificazione di equazioni di primo e secondo grado in sei tipi canonici
+    - Soluzione per completamento del quadrato (al-jabr = trasporto termini negativi; al-muqabala = riduzione termini simili)
+    - Dimostrazioni geometriche delle soluzioni (modelli con rettangoli e quadrati)
+    - Applicazioni pratiche: eredità, scambi commerciali, agrimensura
+  - *Sul calcolo indiano* (testo arabo perduto, trad. latina: *Algoritmi de numero Indorum*): diffusione del sistema decimale posizionale e dello zero; origine della parola "algoritmo"
+- al-Kindi (c. 801–873): *De aspectibus* (ottica geometrica), crittoanalisi (analisi di frequenza), *De gradibus* (dosi medicinali)
+- Banu Musa (tre fratelli, I
+==================================================
+Not found: Al-Jabr

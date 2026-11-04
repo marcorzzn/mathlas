@@ -58,7 +58,7 @@ export default function App() {
             className="flex items-center gap-2.5 text-lg font-serif-editorial font-bold tracking-tight text-slate-100 whitespace-nowrap shrink-0 hover:text-amber-300 transition-colors cursor-pointer"
           >
             <div className="w-2.5 h-2.5 rounded-full bg-amber-400" />
-            <span>ATHLAS · MATH-ATLAS</span>
+            <span>MATHLAS</span>
           </a>
 
           {/* Zone 2: Navigation Links (I 6 Moduli Primari + Enciclopedia) */}

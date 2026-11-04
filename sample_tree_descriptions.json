@@ -1,0 +1,26 @@
+[
+  {
+    "target": "Papiro di Rhind",
+    "raw": "Papiro di Rhind (Ahmes, c. 1650 a.C., copia di un testo più antico del XIX sec. a.C.)",
+    "full_desc": "Papiro di Rhind (Ahmes, c. 1650 a.C., copia di un testo più antico del XIX sec. a.C.). Contenuto e dettagli: Metodo della falsa posizione per equazioni lineari; Tavola di scomposizione di 2/n in frazioni unitarie per n dispari fino a 101; Problemi di distribuzione di beni (pane, birra, animali); Progressioni aritmetiche (es. problema 79: case, gatti, topi, spighe, misure di grano); Calcolo di aree (rettangolo, triangolo isoscele, trapezio, cerchio: area = (8/9 d)^2, π ≈ 3,1605); Volume di granai cilindrici e tronco di piramide (dettaglio nel Papiro di Mosca); Problemi di pendenza (seked) delle piramidi: rapporto tra base e altezza; Primi esempi di algebra retorica: \"aha\" (quantità incognita)",
+    "sub_bullet_count": 8
+  },
+  {
+    "target": "Papiro di Rhind",
+    "raw": "Scomposizione in frazioni unitarie (2/n tabella nel Papiro di Rhind)",
+    "full_desc": "Scomposizione in frazioni unitarie (2/n tabella nel Papiro di Rhind). Contenuto e dettagli: ",
+    "sub_bullet_count": 0
+  },
+  {
+    "target": "Plimpton 322",
+    "raw": "Plimpton 322 (c. 1800 a.C., Larsa?)",
+    "full_desc": "Plimpton 322 (c. 1800 a.C., Larsa?). Contenuto e dettagli: Lista di 15 terne pitagoriche generate da coppie (p,q) secondo le formule babilonesi: a = p^2 - q^2, b = 2pq, c = p^2 + q^2; oppure a = p^2 - q^2, b = 2pq, c = p^2 + q^2 con varianti; include terne come (12709, 13500, 18541); Interpretazioni: trigonometria primitiva? Tavola di rapporti? Esercizi di algebra?",
+    "sub_bullet_count": 2
+  },
+  {
+    "target": "Al-Kitāb al-Mukhtaṣar",
+    "raw": "*Al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wal-Muqābala* (Il libro conciso sul calcolo per completamento e bilanciamento, c. 820)",
+    "full_desc": "*Al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wal-Muqābala* (Il libro conciso sul calcolo per completamento e bilanciamento, c. 820). Contenuto e dettagli: Algebra come disciplina separata: manipolazione di equazioni senza uso di simboli (retorica); Classificazione di equazioni di primo e secondo grado in sei tipi canonici; Soluzione per completamento del quadrato (al-jabr = trasporto termini negativi; al-muqabala = riduzione termini simili); Dimostrazioni geometriche delle soluzioni (modelli con rettangoli e quadrati); Applicazioni pratiche: eredità, scambi commerciali, agrimensura",
+    "sub_bullet_count": 5
+  }
+]

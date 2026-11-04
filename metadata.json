@@ -1,5 +1,5 @@
 {
-  "name": "Math-Atlas — Sistema Enciclopedico-Esplorativo della Matematica",
+  "name": "MATHLAS — Atlante & Sistema Enciclopedico-Esplorativo della Matematica",
   "description": "Atlante visuale 3D, ontologia formale a 40 categorie, laboratori computazionali interattivi e architettura lossless delle connessioni profonde della matematica.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

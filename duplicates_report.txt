@@ -1,0 +1,33 @@
+Totale corrispondenze/duplicati individuati: 114
+| # | Entità in mappa_matematica.md | Nodo Esistente in ontologyData_full.ts | ID Esistente | Azione di Merge |
+|---|---|---|---|---|
+| 1 | Teorema di Pitagora applicato praticam | Teorema di Pitagora | n9 | Arricchimento Description (_updated: true) |
+| 2 | Liu Hui (225–295, Regno Wei) | Liu Hui | n72 | Arricchimento Description (_updated: true) |
+| 3 | Qin Jiushao (1202–1261) | Qin Jiushao | n74 | Arricchimento Description (_updated: true) |
+| 4 | Zhu Shijie (1249–1314) | Zhu Shijie | n75 | Arricchimento Description (_updated: true) |
+| 5 | Aryabhata (476–550, Kusumapura) | Aryabhata | n64 | Arricchimento Description (_updated: true) |
+| 6 | Brahmagupta (598–668, Ujjain) | Brahmagupta | n65 | Arricchimento Description (_updated: true) |
+| 7 | Bhaskara II (1114–1185, Vijjadavida) | Bhaskara II | n68 | Arricchimento Description (_updated: true) |
+| 8 | Talete di Mileto (c. 624–546 a.C.): in | Talete di Mileto | n8 | Arricchimento Description (_updated: true) |
+| 9 | Pitagora di Samo (c. 570–495 a.C.) e S | Teorema di Pitagora | n9 | Arricchimento Description (_updated: true) |
+| 10 | *Spirale di Archimede*: r = aθ; area d | Archimede di Siracusa | n34 | Arricchimento Description (_updated: true) |
+| 11 | *Galleggianti* (idrostatica): principi | Archimede di Siracusa | n34 | Arricchimento Description (_updated: true) |
+| 12 | Crivello di Eratostene per numeri prim | Eratostene di Cirene | n46 | Arricchimento Description (_updated: true) |
+| 13 | Commenti a Diofanto, Apollonio, Tolome | Coniche di Apollonio | n44 | Arricchimento Description (_updated: true) |
+| 14 | *Commento al primo libro degli Element | Elementi di Euclide | n25 | Arricchimento Description (_updated: true) |
+| 15 | Generalizzazione del teorema di Pitago | Teorema di Pitagora | n9 | Arricchimento Description (_updated: true) |
+| 16 | Traduttore di Archimede, Apollonio, Eu | Elementi di Euclide | n25 | Arricchimento Description (_updated: true) |
+| 17 | *Algebra*: estensione di al-Khwarizmi  | Al-Khwarizmi | n76 | Arricchimento Description (_updated: true) |
+| 18 | Influenza su Fibonacci | Fibonacci anyons | n1153 | Arricchimento Description (_updated: true) |
+| 19 | Triangolo di Tartaglia–Pascal (coeffic | Tartaglia | n103 | Arricchimento Description (_updated: true) |
+| 20 | Adelardo di Bath (c. 1080–1152): tradu | Elementi di Euclide | n25 | Arricchimento Description (_updated: true) |
+| 21 | Roberto di Chester: traduzione Algebra | Al-Khwarizmi | n76 | Arricchimento Description (_updated: true) |
+| 22 | *Liber quadratorum* (1225): equazioni  | Fibonacci anyons | n1153 | Arricchimento Description (_updated: true) |
+| 23 | Niccolò Tartaglia (1499–1557): riscope | Tartaglia | n103 | Arricchimento Description (_updated: true) |
+| 24 | Gerolamo Cardano (1501–1576): | Cardano | n102 | Arricchimento Description (_updated: true) |
+| 25 | Ludovico Ferrari (1522–1565): soluzion | Ferrari | n104 | Arricchimento Description (_updated: true) |
+| 26 | Pierre de Fermat (1601–1665): | Fermat | n120 | Arricchimento Description (_updated: true) |
+| 27 | René Descartes (Cartesio, 1596–1650): | Descartes | n126 | Arricchimento Description (_updated: true) |
+| 28 | Fermat: | Fermat | n120 | Arricchimento Description (_updated: true) |
+| 29 | Algoritmo di Newton (o Newton–Raphson) | Newton | n133 | Arricchimento Description (_updated: true) |
+| 30 | Controversia con Leibniz sulla priorit | Leibniz | n138 | Arricchimento Description (_updated: true) |

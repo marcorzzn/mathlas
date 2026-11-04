@@ -1,0 +1,22 @@
+| # | Label | Anno | Tipo | Sezione |
+|---|---|---|---|---|
+| 1 | Osso di Ishango | 20000 a.C. | Artefatto | 1. Preistoria e conteggio |
+| 2 | Osso di Lebombo | 35000 a.C. | Artefatto | 1. Preistoria e conteggio |
+| 3 | Osso di lupo di Dolní Věstonice | 30000 a.C. | Artefatto | 1. Preistoria e conteggio |
+| 4 | Osso di Blanchard : tacche serpentiniformi | 30000 a.C. | Artefatto | 1. Preistoria e conteggio |
+| 5 | Placca di Lartet : segni interpretati come sistema di conteggio | N/D | Sistema | 1. Preistoria e conteggio |
+| 6 | Corrispondenza biunivoca | N/D | Concetto | 1. Preistoria e conteggio |
+| 7 | Tally stick : tacche incise, spesso raggruppate | N/D | Concetto | 1. Preistoria e conteggio |
+| 8 | Dita delle mani e dei piedi: base 5, 10, 20 | N/D | Sistema | 1. Preistoria e conteggio |
+| 9 | Parti del corpo | N/D | Sistema | 1. Preistoria e conteggio |
+| 10 | Raggruppamenti e basi numeriche naturali | N/D | Concetto | 1. Preistoria e conteggio |
+| 11 | Sistemi a coppie , a cinquine , a decine , a ventine | N/D | Sistema | 1. Preistoria e conteggio |
+| 12 | Nodi su corda: quipu incaici  come sistema di registrazione numerica e statistica | N/D | Sistema | 1. Preistoria e conteggio |
+| 13 | Simmetria in utensili litici | N/D | Concetto | 1. Preistoria e conteggio |
+| 14 | Motivi geometrici in pitture rupestri | N/D | Concetto | 1. Preistoria e conteggio |
+| 15 | Nozione di distanza, area, volume per attività quotidiane | N/D | Concetto | 1. Preistoria e conteggio |
+| 16 | Misure antropomorfe: pollice, palmo, braccio, passo, cubito | N/D | Concetto | 1. Preistoria e conteggio |
+| 17 | Calendari megalitici: allineamenti astronomici | N/D | Concetto | 1. Preistoria e conteggio |
+| 18 | Cardinalità di insiemi concreti | N/D | Concetto | 1. Preistoria e conteggio |
+| 19 | Nozione di ordine | N/D | Concetto | 1. Preistoria e conteggio |
+| 20 | Seriazione e classificazione | N/D | Concetto | 1. Preistoria e conteggio |
